@@ -1,0 +1,286 @@
+#header{
+    color: white;
+    background-color: black;
+    height: 50px;
+    width: 100%;
+    font-size: 20px;
+}
+#logo{
+    height: 50px;
+    width: 150px;
+}
+#header span{
+    margin-left: 30px;
+    position: relative;
+    left: 30px;
+    top: -17px;
+    
+}
+#text{
+    position: absolute;
+    top: 80px;
+    height: 70px;
+    width: 50px;
+}
+#text1{
+    position: absolute;
+    height: 50px;
+    width: 600px;
+    left: 50px;
+    background-color: rgb(214, 208, 208);
+}
+#text button{
+    position: absolute;
+    left: 600px;
+    top: 0px;
+    height: 55px;
+    width: 150px;
+    background-color: blue;
+    color: White;
+}
+#div1{
+    position: absolute;
+    top: 200px;
+    left: 50px;
+    font-size: bolder;
+    background-color: palegoldenrod;
+    height: 350px;
+    width: 900px;
+}
+#but2{
+    height: 40px;
+    width: 160px;
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+    position: absolute;
+    left: 40px;
+    top: 220px;
+}
+#d2{
+    position: absolute;
+    left: 30px;
+    top: 170px;
+}
+#h11{
+    position: absolute;
+    top: 50px;
+    left: 30px;
+}
+#d1{
+    position: absolute;
+    left: 30px;
+    top: 10px;
+}
+#d4{
+    position: absolute;
+    top: 250px;
+    left: 30px;
+}
+#div2{
+    position: absolute;
+    height: 350px;
+    width: 550px;
+    background-color: peachpuff;
+    top: 200px;
+    left: 1000px;
+}
+.we{
+    position: absolute;
+    left: 30px;
+    top: 50px;
+}
+#mar{
+    position: absolute;
+    top: 40px;
+
+}
+#cre{
+    position: absolute;
+    top: 70px;
+}
+#but3{
+    position: absolute;
+    top: 180px;
+    height: 40px;
+    width: 150px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+#a1{
+    position: absolute;
+    top: 190px;
+    left: 200px;
+    color: black;
+    text-decoration: none;
+}
+#no{
+    position: absolute;
+    top: 250px;
+}
+#more{
+    position: absolute;
+    top: 600px;
+    left: 500px;
+    font-size: 40px;
+}
+#fix{
+    position: fixed;
+    right: 15px;
+    bottom: 20px;
+    height: 50px;
+    width: 180px;
+    font-size: 20px;
+    border-radius: 20px;
+}
+#known{
+    position: absolute;
+    top: 680px;
+    left: 390px;
+}
+#div3{
+    position: absolute;
+    top: 800px;
+    left: 100px;
+    font-size: 20px;
+}
+#div3 img{
+    height: 400px;
+    width: 600px;
+}
+#as{
+    position: absolute;
+    top: 555px;
+    left: 5px;
+}
+#sub{
+    position: absolute;
+    top:610px ;
+    left: 90px;
+}
+#but4{
+    height: 60px;
+    width: 220px;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+}
+#div4{
+    position: absolute;
+    top: 800px;
+    left: 800px;
+}
+#div4 img{
+    height: 400px;
+    width: 600px;
+}
+#but5{
+    height: 60px;
+    width: 220px;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+    position: absolute;
+    top: 649px;
+}
+#sp{
+    font-size: 20px;
+}
+#as1{
+    font-size: 20px;
+    position: absolute;
+
+}
+#rup1{
+    position: absolute;
+    top: 550px;
+    font-size: 35px;
+}
+#div5{
+    position: absolute;
+    top: 1600px;
+    height: 500px;
+    width: 100%;
+    background-color: powderblue;
+    z-index: -1;
+}
+#j{
+    position: absolute;
+    top: 30px;
+}
+#i2{
+    position: absolute;
+    right: 400px;
+    top: 100px;
+    height: 40px;
+    width: 90px;
+}
+#gd{
+    position: absolute;
+    font-size: 30px;
+    font-weight: 5px bolder;
+    right: 600px;
+    top: 100px;
+}
+#gu{
+    position: absolute;
+    font-size: 18px;
+    right: 550px;
+    top: 110px;
+}
+#ser{
+    position: absolute;
+    font-size: 35px;
+    right: 500px;
+    top:150px ;
+}
+#p{
+    position: absolute;
+    top: 280px;
+    right: 220px;
+    font-size: 18px
+}
+#but6{
+    position: absolute;
+    right: 550px;
+    top: 380px;
+    height: 50px;
+    width: 200px;
+    border-radius: 20px;
+    color: white;
+    background-color: black;
+}
+
+#div6{
+    position: absolute;
+    top: 2150px;
+    left: 30px;
+}
+#dis{
+    text-decoration: underline;
+}
+#th{
+    font-size: 20px;
+}
+
+#div7{
+    position: absolute;
+    top: 2300px;
+    border-left: 350px;
+    text-align: center;
+    height: 70px;
+    width: 100%;
+    background-color: rgb(228, 217, 217);
+    z-index: -1;
+}
+
+#foot{
+    height: 800px;
+    width: 100%;
+    background-color: black;
+    z-index: -1;
+    color: white;
+    position: absolute;
+    top: 2360px;
+}
